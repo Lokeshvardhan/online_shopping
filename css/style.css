@@ -1,0 +1,92 @@
+            .nopadding
+			{
+				padding:0px;
+			}
+			body
+			{
+				background:#efefef;
+			}
+			.container
+			{
+				background:#f2f2f2;
+			}
+			.single-item
+			{
+				
+			    margin-top:30px;
+				margin-bottom:20px;
+				height:400px;
+				border: solid 1px silver;
+				box-shadow:0 0 5px black;
+				
+				
+			}
+			.top
+			{
+				
+				background: maroon;
+				height:240px;
+				
+			}
+			.top img
+			{
+				height:100%;
+				width:100%;
+				
+			}
+			.bottom
+			{
+				background:#009999;
+				height:160px;
+			}
+			.item-title
+			{
+				margin-top:0px;
+				margin-left:10px;
+				color:white;
+				padding-top:10px;
+			}
+			.cutted-price
+			{
+				font-size:20px;
+				margin-right:10px;
+				color:	#d9d9d9;
+			}
+			.price
+			{
+				font-size:20px;
+				margin-right:10px;
+				color:white;
+				font-style:italic;
+			}
+			.pp-title
+			{
+				font-size:50px;
+			}
+			.pp-desc-head
+			{
+				font-size:30px;
+				text-decoration:underline;
+			}
+			
+			.pp-desc-detail p
+			{
+				font-size:25px;
+			}
+			.pp-desc-detail ul li
+			{
+				margin-top:5px;
+				font-size:20px;
+			}
+			
+			.list-group .list-group-item
+			{
+				font-size: 23px;
+				border-left: 0;
+				border-right: 0;
+				padding : 5px 0 10px 0;
+			}	
+			.list-group .list-group-item:hover
+			{
+				background:#e6ffee;
+			}
